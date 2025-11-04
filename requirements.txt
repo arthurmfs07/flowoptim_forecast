@@ -30,7 +30,6 @@ pydeck
 # Data sources
 # =========================================
 yfinance
-alpha_vantage
 
 # =========================================
 # Optional LLM / AI Insights
