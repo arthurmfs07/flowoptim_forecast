@@ -1,0 +1,48 @@
+# -----------------------------
+# Python virtual environment
+# -----------------------------
+chronosvenv/
+.venv/
+
+# -----------------------------
+# Python cache / bytecode
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# -----------------------------
+# Artifacts / model binaries
+# -----------------------------
+artifacts/*.joblib
+artifacts/*.pkl
+artifacts/*.h5
+
+# -----------------------------
+# Data files
+# -----------------------------
+data/*.csv
+data/*.py
+!data/sample_data.csv
+data/*.parquet
+data/*.sqlite
+
+# -----------------------------
+# Jupyter Notebooks
+# -----------------------------
+notebooks/
+.ipynb_checkpoints/
+
+# -----------------------------
+# Streamlit
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# OS / system files
+# -----------------------------
+.DS_Store
+Thumbs.db

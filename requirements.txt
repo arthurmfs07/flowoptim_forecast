@@ -1,0 +1,43 @@
+# =========================================
+# Core ML / Forecasting
+# =========================================
+chronos-forecasting
+xgboost
+scikit-learn
+pandas-ta
+pandas
+numpy
+
+# =========================================
+# Backend (FastAPI)
+# =========================================
+fastapi
+uvicorn
+python-dotenv
+requests
+APScheduler
+
+# =========================================
+# Frontend (Streamlit)
+# =========================================
+streamlit
+streamlit-autorefresh
+plotly
+altair
+pydeck
+
+# =========================================
+# Data sources
+# =========================================
+yfinance
+alpha_vantage
+
+# =========================================
+# Optional LLM / AI Insights
+# =========================================
+openai
+
+# =========================================
+# Optional utilities
+# =========================================
+beautifulsoup4
